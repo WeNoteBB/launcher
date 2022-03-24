@@ -1,3 +1,4 @@
+package com.wenote.launcher;
 
 public class Hello {
 

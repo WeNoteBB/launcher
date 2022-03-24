@@ -19,15 +19,3 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
--keep class com.wenote.launcher.DelayInitDispatcher{
-*;
-}
-
--keep class com.wenote.launcher.TaskDispatcher{
-*;
-}
-
--keep class com.wenote.launcher.task.ITask { *; }
--keep class com.wenote.launcher.task.MainTask { *; }
--keep class com.wenote.launcher.task.Task { *; }
--keep class com.wenote.launcher.task.TaskCallBack { *; }
